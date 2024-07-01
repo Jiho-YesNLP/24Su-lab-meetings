@@ -35,7 +35,7 @@ The meetings are a regular opportunity for lab members to present their research
 ### Jun 21
 
 - Topics:
-    - *Deep Learning Performance and Scalability* - presenter: Jiho [[Slides](https://tinyurl.com/4462545v)]
+    - *Deep Learning Performance and Scalability* - presenter: Sachin [[Slides](https://tinyurl.com/4462545v)]
     - *Q-Edu dataset and interrogative sentence classification* - presenter: Nong and Jiho
 - Location: Lab and Teams
 
